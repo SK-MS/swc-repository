@@ -1,3 +1,3 @@
 # Guacamole recipe
 
-This repository contains a recipe and alsit
+This repository contains a recipe and another list.
